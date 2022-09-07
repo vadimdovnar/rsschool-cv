@@ -4,7 +4,7 @@
 * **Phone:** +375 (44) 733-98-03
 * **Skype:** live:vadimdvv154
 * **Discord:** Vadim Dovnar#4303
-* **Telegram:** [Me](https://t.me/vadimdovnar)
+* **Telegram:** [vadimdovnar](https://t.me/vadimdovnar)
 * **Twitter:** [dovnar_vadim](https://twitter.com/dovnar_vadim)
 * **GitHub:** [vadimdovnar](https://github.com/vadimdovnar)
 * **Email:** vadim.dovnar.93@gmail.ru

@@ -40,3 +40,36 @@ function sortByBit(arr) {
     return newArr
 }
 ```
+
+## **Courses**
+
+* **Salesforce** 
+* **Salesforce Trailhead:** https://trailblazer.me/id/vdovnar
+* **HTML Academy:** https://htmlacademy.ru/profile/vadimdovnar
+
+## **Skills**
+
+1. **Salesforce**
+    * Apex
+    * Visual Force Page
+    * LWC Components
+    * SOQL
+    * SOSL
+    * Security
+    * Apex Unit Tests
+    * Salesforce Admin (Basic)
+        * **Projects**
+            * vadimDovnar-success-motors-app [GitHub link]('https://github.com/vadimdovnar/vadimDovnar-success-motors-app.git')
+            * pandemic-apex-app-udemy [GitHub link]('https://github.com/vadimdovnar/pandemic-apex-app-udemy.git')
+            * appointments-task-vadimdovnar [GitHub link]('https://github.com/vadimdovnar/appointments-task-vadimdovnar.git')
+
+2. **Front - End**
+    * HTML5
+    * CSS3 (Sass)
+    * JavaScript
+    * React (Basic)
+    * Redux (Basic)
+        * **Projects**
+            * my very first project "webpack-sass-template" [GitHub link]('https://github.com/vadimdovnar/webpack-sass-template.git')
+            * form [GitHub link]('hhttps://github.com/vadimdovnar/form.git')
+    

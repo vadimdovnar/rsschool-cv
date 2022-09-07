@@ -3,11 +3,11 @@
 
 * **Phone:** +375 (44) 733-98-03
 * **Skype:** live:vadimdvv154
+* **Email:** vadim.dovnar.93@gmail.ru
 * **Discord:** Vadim Dovnar#4303
 * **Telegram:** [vadimdovnar](https://t.me/vadimdovnar)
 * **Twitter:** [dovnar_vadim](https://twitter.com/dovnar_vadim)
 * **GitHub:** [vadimdovnar](https://github.com/vadimdovnar)
-* **Email:** vadim.dovnar.93@gmail.ru
 * **LinkedIn:** [vadimdovnar](https://www.linkedin.com/in/vadimdovnar)
 * **facebook:** [vadimdovnar](https://www.facebook.com/profile.php?id=100015330672443)
 

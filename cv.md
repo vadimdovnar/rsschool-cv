@@ -4,11 +4,12 @@
 * **Phone:** +375 (44) 733-98-03
 * **Skype:** live:vadimdvv154
 * **Discord:** Vadim Dovnar#4303
-* **Telegram:** @vadimdovnar
-* **Twitter:** @dovnar_vadim
+* **Telegram:** [vadimdovnar](https://t.me/vadimdovnar)
+* **Twitter:** [dovnar_vadim](https://twitter.com/dovnar_vadim)
+* **GitHub:** [vadimdovnar](https://github.com/vadimdovnar)
 * **Email:** vadim.dovnar.93@gmail.ru
-* **LinkedIn:** https://www.linkedin.com/in/vadimdovnar
-* **facebook:** https://www.facebook.com/profile.php?id=100015330672443
+* **LinkedIn:** [vadimdovnar](https://www.linkedin.com/in/vadimdovnar)
+* **facebook:** [vadimdovnar](https://www.facebook.com/profile.php?id=100015330672443)
 
 ## **About myself**
 
@@ -43,9 +44,9 @@ function sortByBit(arr) {
 
 ## **Courses**
 
-* **Salesforce** 
-* **Salesforce Trailhead:** https://trailblazer.me/id/vdovnar
-* **HTML Academy:** https://htmlacademy.ru/profile/vadimdovnar
+* **Salesforce Udemy Course** 
+* **Salesforce Trailhead:** [vdovnar](https://trailblazer.me/id/vdovnar)
+* **HTML Academy:** [vadimdovnar](https://htmlacademy.ru/profile/vadimdovnar)
 
 ## **Skills**
 
@@ -59,9 +60,9 @@ function sortByBit(arr) {
     * Apex Unit Tests
     * Salesforce Admin (Basic)
         * **Projects**
-            * vadimDovnar-success-motors-app [GitHub link]('https://github.com/vadimdovnar/vadimDovnar-success-motors-app.git')
-            * pandemic-apex-app-udemy [GitHub link]('https://github.com/vadimdovnar/pandemic-apex-app-udemy.git')
-            * appointments-task-vadimdovnar [GitHub link]('https://github.com/vadimdovnar/appointments-task-vadimdovnar.git')
+            * vadimDovnar-success-motors-app [GitHub link](https://github.com/vadimdovnar/vadimDovnar-success-motors-app.git)
+            * pandemic-apex-app-udemy [GitHub link](https://github.com/vadimdovnar/pandemic-apex-app-udemy.git)
+            * appointments-task-vadimdovnar [GitHub link](https://github.com/vadimdovnar/appointments-task-vadimdovnar.git)
 
 2. **Front - End**
     * HTML5
@@ -70,8 +71,8 @@ function sortByBit(arr) {
     * React (Basic)
     * Redux (Basic)
         * **Projects**
-            * my very first project "webpack-sass-template" [GitHub link]('https://github.com/vadimdovnar/webpack-sass-template.git')
-            * form [GitHub link]('hhttps://github.com/vadimdovnar/form.git')
+            * my very first project "webpack-sass-template" [GitHub link](https://github.com/vadimdovnar/webpack-sass-template.git)
+            * form [GitHub link](https://github.com/vadimdovnar/form.git)
 
 
     

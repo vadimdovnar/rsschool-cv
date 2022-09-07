@@ -72,4 +72,9 @@ function sortByBit(arr) {
         * **Projects**
             * my very first project "webpack-sass-template" [GitHub link]('https://github.com/vadimdovnar/webpack-sass-template.git')
             * form [GitHub link]('hhttps://github.com/vadimdovnar/form.git')
+
+
     
+## **English**
+
+**A1** (A2 in process. I learn English as myself, also every other day to engage with a tutor )
